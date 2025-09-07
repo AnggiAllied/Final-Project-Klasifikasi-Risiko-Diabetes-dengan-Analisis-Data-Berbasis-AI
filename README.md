@@ -2,7 +2,8 @@
 > Project Overview
 Proyek ini bertujuan untuk memprediksi risiko diabetes berdasarkan data kesehatan pasien dengan memanfaatkan AI (IBM Granite via Replicate dan IBM Watson ML API).
 Analisis dilakukan mulai dari eksplorasi data (EDA), pembersihan data, pemodelan machine learning (Logistic Regression & Random Forest), hingga evaluasi performa model.
-Hasil dari proyek ini diharapkan dapat memberikan insight yang bermanfaat serta rekomendasi untuk pencegahan dan deteksi dini diabetes.
+Hasil dari proyek ini diharapkan dapat memberikan insight yang bermanfaat serta rekomendasi untuk pencegahan dan deteksi dini diabetes. dan project ini untuk menyempurnakan project saya sebelumnya, yang dimana saya sudah membuat website dengan link sebagai berikut:
+https://diabetesproject.pythonanywhere.com/
 
 > Raw Dataset Link
 
